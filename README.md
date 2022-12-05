@@ -19,15 +19,21 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on writing client/server socket app, some automation tools for cyber security related tests in python
 - 🌱 I’m currently learning web application penetrating testing
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/orkhan-alibayli)
 
 --------------------------------------------------------
 
-### 🌐 Personal Websites
+### 🌐 How to reach me
 
+- [LinkedIn](https://linkedin.com/in/orkhan-alibayli)
 - [orkhan-alibayli.com](https://orkhan-alibayli.com)
 
 ------------------------------------------------------
+
+### 📙 Blog posts
+
+- [My Medium page](https://medium.com/@orkhan_alibayli)
+
+---------------------------------------------------------
 
 ### 🏁 CTFs
 
@@ -35,7 +41,3 @@ Here are some ideas to get you started:
 </a>
 
 -------------------------------------------------------
-
-### 📙 Blog posts
-
-- [My Medium page](https://medium.com/@orkhan_alibayli)
