@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I'm Orkhan
 
 <!--
 **orkhan-alibayli/orkhan-alibayli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :computer: I'm a Cyber Security Engineer, Penetration Tester, Programmer
+
+- 🔭 I’m currently working on writing client/server socket app, some automation tools for cyber security related tests in python
+- 🌱 I’m currently learning web application penetrating testing
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/orkhan-alibayli)
+
+--------------------------------------------------------
+
+### 🌐 Personal Websites
+
+- [orkhan-alibayli.com](https://orkhan-alibayli.com)
+
+------------------------------------------------------
+
+### 🏁 CTFs
+
+<a rel="external" href="https://tryhackme.com/p/orkhanalibayli" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/orkhanalibayli.png" alt="TryHackMe">
+</a>
+
+-------------------------------------------------------
+
+### 📙 Blog posts
+
+- [My Medium page](https://medium.com/@orkhan_alibayli)
