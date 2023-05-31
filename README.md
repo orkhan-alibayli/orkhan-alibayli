@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### :computer: I'm a Cyber Security Engineer, Penetration Tester, Programmer
 
 - 🔭 I’m currently working on writing client/server socket app, some automation tools for cyber security related tests in python
-- 🌱 I’m currently learning web application penetrating testing
+
 
 --------------------------------------------------------
 
